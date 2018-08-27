@@ -1,3 +1,5 @@
+#! "netcoreapp2.1"
+
 using System.IO;
 using System.Net;
 using System.Net.Sockets;

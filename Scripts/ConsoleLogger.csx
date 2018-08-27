@@ -1,4 +1,4 @@
-
+#! "netcoreapp2.1"
 using Microsoft.Extensions.Logging;
 
 public class ConsoleLogProvider : ILoggerProvider
