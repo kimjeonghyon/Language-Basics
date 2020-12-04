@@ -1,3 +1,6 @@
+# Useful links
+http://jeonghyonkim-seoul-files.s3-website.ap-northeast-2.amazonaws.com/
+
 # Data Structure
 List
 Map
